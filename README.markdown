@@ -1,4 +1,4 @@
-# [Jekyll](https://jekyllrb.com/)
+# [Jekyll] (https://jekyllrb.com/)
 
 [![Gem Version](https://img.shields.io/gem/v/jekyll.svg)][ruby-gems]
 [![Linux Build Status](https://img.shields.io/travis/jekyll/jekyll/master.svg?label=Linux%20build)][travis]
